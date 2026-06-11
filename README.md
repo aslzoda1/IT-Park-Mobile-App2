@@ -7,8 +7,7 @@
 </h1>
 
 <p align="center">
-<b>𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑬𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏 • 𝑰𝒏𝒅𝒖𝒔𝒕𝒓𝒊𝒂𝒍 𝑭𝒖𝒕𝒖𝒓𝒊𝒔𝒎 • 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑼𝑿</b>
-</p>
+<b>𝑫𝒊𝒈𝒊𝒕𝒂𝒍 𝑬𝒅𝒖𝒄𝒂𝒕𝒊𝒐𝒏 • 𝑰𝒏𝒅𝒖𝒔𝒕𝒓𝒊𝒂𝒍 𝑭𝒖𝒕𝒖𝒓𝒊𝒔𝒎 • 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑼𝑿</b></p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
