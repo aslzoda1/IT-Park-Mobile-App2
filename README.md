@@ -105,6 +105,3 @@
 <p align="center">
 <b>💎 IT PARK — 𝑫𝒆𝒔𝒊𝒈𝒏𝒆𝒅 𝒇𝒐𝒓 𝒕𝒉𝒆 𝑭𝒖𝒕𝒖𝒓𝒆 💎</b>
 </p>
-
-
-aslzoda
